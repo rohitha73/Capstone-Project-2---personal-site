@@ -8,11 +8,14 @@
     bottom: -40%;
     top: -20%;
     z-index: 50;
-    opacity: 50%;
-    width: 200px;
+    opacity: 30%;
+    width: 350px;
 }
 .bg-body-tertiary{
     display: flex;
     align-items: flex-start;
 }
-
+a{
+    text-decoration: none;
+    color: black;
+}
