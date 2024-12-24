@@ -1,0 +1,23 @@
+body{
+    font-family: "PT Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-image: url(./asests/images/contact-me/bg-image.jpg);
+    background-size: cover;
+  }
+.imgbutton{
+    width: 100px;
+    object-fit: cover;
+}
+.btn-outline-primary{
+    background-color: yellow;
+}
+.text-center{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+h1,p{
+    color: yellow;
+    text-shadow: 1px 1px #000000;
+}
+
